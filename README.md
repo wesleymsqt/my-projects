@@ -1,21 +1,21 @@
-# 📚 Repositório de Estudos Pessoais
+# 📚 Personal Study Repository
 
-Este repositório é destinado ao armazenamento de conteúdos relacionados aos meus estudos pessoais. Aqui você encontrará anotações, exercícios, projetos, códigos e experimentos que estou desenvolvendo ao longo do meu aprendizado em diversas áreas.
+This repository is for storing content related to my personal studies. Here you will find notes, exercises, projects, code, and experiments that I am developing throughout my learning in various areas.
 
-## 📁 Organização
+## 📁 Organization
 
-O conteúdo está organizado por tópicos ou tecnologias, podendo incluir:
+The content is organized by topic or technology, and may include:
 
-- Programação (ex: Python, JavaScript, etc.)
-- Banco de Dados
-- Estrutura de Dados e Algoritmos
-- Ciência de Dados e Machine Learning
-- Projetos pessoais e testes de conceito
+- Programming (e.g., Python, JavaScript, etc.)
+- Databases
+- Data Structures and Algorithms
+- Data Science and Machine Learning
+- Personal projects and proof-of-concept tests
 
-## 🚧 Aviso
+## 🚧 Notice
 
-Este repositório não tem como objetivo servir como material didático oficial ou definitivo. É um espaço pessoal de experimentação e registro de aprendizados.
+This repository is not intended to serve as official or definitive teaching material. It is a personal space for experimentation and recording learning.
 
-## 🤝 Contribuições
+## 🤝 Contributions
 
-Este é um repositório pessoal, então contribuições externas não são esperadas no momento. No entanto, sugestões ou feedbacks são sempre bem-vindos!
+This is a personal repository, so external contributions are not expected at this time. However, suggestions or feedback are always welcome!
