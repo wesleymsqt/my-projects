@@ -6,7 +6,7 @@ This repository is for storing content related to my personal studies. Here you 
 
 The content is organized by topic or technology, and may include:
 
-- Programming (e.g., Python, JavaScript, etc.)
+- Programming (PHP, Python, JavaScript, etc.)
 - Databases
 - Data Structures and Algorithms
 - Data Science and Machine Learning
