@@ -26,3 +26,18 @@ body {
   color: var(--text-color-primary);
   background-color: var(--bg-color);
 }
+
+.container {
+  max-width: 1280px;
+  padding-inline: 32px;
+  margin-inline: auto;
+}
+
+/* utility-first */
+.grid {
+  display: grid;
+}
+
+.grid-flow-col {
+  grid-auto-flow: column;
+}
