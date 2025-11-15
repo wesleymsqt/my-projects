@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  /* Brand color */
+  --brand-light: #f67841;
+  --brand-mid: #f3541c;
+  --brand-dark: #e43a12;
+
+  /* Text color */
+  --text-primary: #292524;
+  --text-secondary: #57534e;
+  --text-tertiary: #8f8881;
+  --text-highlight: #e43a12;
+
+  /* Surface color */
+  --surface-primary: #ffffff;
+  --surface-secondary: #fee7d6;
+  --surface-disabled: #e7e5e4;
+
+  /* Stroke color */
+  --stroke-default: #d6d3d1;
+  --stroke-highlight: #f3541c;
+
+  /* Semantic color */
+  --semantic-error: #dc2626;
+
+  /* Supporting color */
+  --orange: #f9a474;
+  --yellow: #fedf6f;
+  --green: #c7d78d;
+  --blue: #b8cedc;
+  --violet: #c3b2e7;
+  --pink: #f682a5;
+
+  /* Typography */
+  --font-family: "Poppins", sans-serif;
+  --h1: 800 32px/120% var(--font-family);
+  --h2: 800 24px/120% var(--font-family);
+  --h3: 800 20px/120% var(--font-family);
+  --h4: 800 16px/120% var(--font-family);
+  --text-span: 600 14px/120% var(--font-family);
+  --text: 400 14px/160% var(--font-family);
+}
+
+body {
+  font: var(--text);
+  color: var(--text-primary);
+  background-color: var(--surface-primary);
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font: inherit;
+}
